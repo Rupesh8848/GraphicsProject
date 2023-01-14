@@ -1,0 +1,10 @@
+﻿  main.cpp
+F:\Visual Studio\Project2\Project2\main.cpp(42,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+F:\Visual Studio\Project2\Project2\main.cpp(42,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+F:\Visual Studio\Project2\Project2\main.cpp(79,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\Visual Studio\Project2\Project2\main.cpp(156,30): warning C4305: '=': truncation from 'double' to 'float'
+F:\Visual Studio\Project2\Project2\main.cpp(157,32): warning C4305: '=': truncation from 'double' to 'float'
+F:\Visual Studio\Project2\Project2\main.cpp(379,25): warning C4305: '=': truncation from 'double' to 'float'
+F:\Visual Studio\Project2\Project2\main.cpp(380,24): warning C4305: '=': truncation from 'double' to 'float'
+F:\Visual Studio\Project2\Project2\main.cpp(381,26): warning C4305: '=': truncation from 'double' to 'float'
+  Project2.vcxproj -> F:\Visual Studio\Project2\Debug\Project2.exe
